@@ -16,4 +16,4 @@ Dependencies
 `code blocks for commands`
 
 ## License
-The **project** is licensed under the [ANDREA] License - see the LICENSE.md file for details.
+The **project** is licensed under the [ANDREA CHAN] License - see the LICENSE.md file for details.
